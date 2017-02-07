@@ -1,0 +1,2 @@
+# hollow
+hi, my friend!
